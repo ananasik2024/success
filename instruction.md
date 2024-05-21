@@ -52,6 +52,10 @@ ___Полужирный курсив___
 
 ![Cat picture](https://www.pexels.com/photo/short-fur-gray-cat-207166/)
 
+## Практика добавления ссылки
+
+[Белый кот](https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/ "Белый кот")
+
 
 
 
